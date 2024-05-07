@@ -33,4 +33,6 @@ Pod::Spec.new do |s|
     }
   end
   
+   s.resource_bundles = {'YYImage' => ['YYImage/PrivacyInfo.xcprivacy']}
+  
 end
