@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20EB53302BEA075200CCF9C1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 20EB532F2BEA075200CCF9C1 /* PrivacyInfo.xcprivacy */; };
 		D91A60311F057230008CD5D3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D91A60301F057230008CD5D3 /* AppDelegate.m */; };
 		D91A60341F057230008CD5D3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D91A60331F057230008CD5D3 /* ViewController.m */; };
 		D91A60371F057230008CD5D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D91A60351F057230008CD5D3 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		20EB532F2BEA075200CCF9C1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = ../YYImage/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		D91A602C1F057230008CD5D3 /* YYImageDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YYImageDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D91A602F1F057230008CD5D3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = YYImageDemo/AppDelegate.h; sourceTree = "<group>"; };
 		D91A60301F057230008CD5D3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = YYImageDemo/AppDelegate.m; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 		D97F40881F0573C400DFD481 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				20EB532F2BEA075200CCF9C1 /* PrivacyInfo.xcprivacy */,
 				D9D17ED11F05753800051419 /* Not Available */,
 				D9D17EC71F05750B00051419 /* Utils */,
 				D91A602F1F057230008CD5D3 /* AppDelegate.h */,
@@ -314,6 +317,7 @@
 				D9D17EC11F05750000051419 /* mew_progressive.jpg in Resources */,
 				D9D17EC51F05750000051419 /* ResourceTwitter.bundle in Resources */,
 				D9D17EBC1F05750000051419 /* mew_baseline.gif in Resources */,
+				20EB53302BEA075200CCF9C1 /* PrivacyInfo.xcprivacy in Resources */,
 				D9D17EC31F05750000051419 /* nyancat@2x.webp in Resources */,
 				D9D17EBF1F05750000051419 /* mew_interlaced.gif in Resources */,
 				D9D17EC21F05750000051419 /* niconiconi@2x.gif in Resources */,
